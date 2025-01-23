@@ -8,7 +8,7 @@ from PIL import Image, ImageTk
 import pyperclip  # 用于复制到剪贴板
 
 API_KEY = "YLOtSqjT6U6rZOmCUk466hDg"
-SECRET_KEY = "ukICHsUhKDyoZ34neD06k4XwISKnV5TL"
+SECRET_KEY = "asdCHsUhKDyoZ34neD06k4XwISKnV5TL"
 
 def get_file_content_as_base64(path, urlencoded=False):
     try:
