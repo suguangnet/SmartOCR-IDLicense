@@ -10,7 +10,7 @@ import webbrowser
 from tkinterdnd2 import TkinterDnD, DND_FILES  # 导入tkinterdnd2
 
 API_KEY = "YLOtSqjT6U6rZOmCUk466hDg"
-SECRET_KEY = "ukICHsUhKDyoZ34neD06k4XwISKnV5TL"
+SECRET_KEY = "asdCHsUhKDyoZ34neD06k4XwISKnV5TL"
 
 def center_window(window, width, height):
     """
