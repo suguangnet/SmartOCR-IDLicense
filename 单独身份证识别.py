@@ -8,7 +8,7 @@ import pyperclip
 import re  # 导入正则表达式模块
 
 API_KEY = "YLOtSqjT6U6rZOmCUk466hDg"
-SECRET_KEY = "ukICHsUhKDyoZ34neD06k4XwISKnV5TL"
+SECRET_KEY = "asdCHsUhKDyoZ34neD06k4XwISKnV5TL"
 
 def center_window(window, width, height):
     """
