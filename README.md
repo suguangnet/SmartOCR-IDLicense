@@ -16,8 +16,8 @@
 
 购买后提供机器码，找客服进行注册。
 
-## 申请百度OCR文字识别API接口
-1. 打开https://console.bce.baidu.com/ai-engine/ocr/overview/index
+## 申请API接口
+1. 打开百度OCR文字识别：https://console.bce.baidu.com/ai-engine/ocr/overview/index
 认证后领取免费额度，一般个人免费1000次/月 企业是2000次/月，个人认证可升级为企业认证。
 ![图片](https://github.com/user-attachments/assets/d9b19fec-da92-4e47-a056-e0e6342a311f)
 复制API Key， Secret Key，将这两个值替换到代码里
