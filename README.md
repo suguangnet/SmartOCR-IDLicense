@@ -20,6 +20,8 @@
 1. 打开百度OCR文字识别：https://console.bce.baidu.com/ai-engine/ocr/overview/index
 认证后领取免费额度，一般个人免费1000次/月 企业是2000次/月，个人认证可升级为企业认证。
 ![图片](https://github.com/user-attachments/assets/d9b19fec-da92-4e47-a056-e0e6342a311f)
+![图片](https://github.com/user-attachments/assets/b39d0ca7-92cd-4856-a23a-85a237ce500b)
+
 复制API Key， Secret Key，将这两个值替换到代码里
 ![图片](https://github.com/user-attachments/assets/8cc94fca-f8dc-478d-8a46-7f077c0bdd62)
 
